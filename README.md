@@ -8,3 +8,6 @@ Every script starts with the shebang i.e **#!/bin/bash**
 2. constant variables
 - **Normal Variables**
 can use this variables anywhere in the script.
+- Example:
+- <img width="206" height="171" alt="image" src="https://github.com/user-attachments/assets/b48668c9-bf85-4736-9839-6564b16da307" />
+
