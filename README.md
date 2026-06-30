@@ -84,6 +84,11 @@ Functions are used to execute block of code when we call it
 
 <img width="701" height="371" alt="image" src="https://github.com/user-attachments/assets/13bcba72-4949-4587-a64a-0cade44fd517" />
 
+# Arguments
+
+<img width="722" height="341" alt="image" src="https://github.com/user-attachments/assets/5aea8e43-fa3d-44b4-be1e-204e31dd29a1" />
+
+
 
 
 
