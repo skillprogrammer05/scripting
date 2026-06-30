@@ -62,6 +62,14 @@ Example:
 
    <img width="522" height="357" alt="image" src="https://github.com/user-attachments/assets/2ace7064-eabc-48b3-b062-86c320c896ad" />
 
+   # while loop
+
+  <img width="441" height="327" alt="image" src="https://github.com/user-attachments/assets/fdd05f64-4e86-417a-8451-69acc3c3d8ff" />
+
+  # for loop
+
+  <img width="592" height="351" alt="image" src="https://github.com/user-attachments/assets/cf8ab2bf-cc3a-4be1-835c-df0b24a60a7f" />
+
 
 
 
