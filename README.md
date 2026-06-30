@@ -30,9 +30,13 @@ Example:
   (ii) `./<script-filename>`
 
   # Arrays
+  
   insert
+  
   update
+  
   Remove
+  
   Replace
 
 
