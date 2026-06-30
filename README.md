@@ -93,6 +93,9 @@ Example:
 
 <img width="1186" height="650" alt="image" src="https://github.com/user-attachments/assets/27f3400c-2d78-442c-9a50-1c721a5a6024" />
 
+# case 
+
+<img width="597" height="442" alt="image" src="https://github.com/user-attachments/assets/d20f5e11-9898-4854-84f2-1054ecdc3fdc" />
 
 
 
