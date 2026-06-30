@@ -22,5 +22,7 @@ Example:
   
   <img width="302" height="162" alt="image" src="https://github.com/user-attachments/assets/39ca7aa8-032e-4be2-89eb-757b703af470" />
 
-  
-
+  # How to run the script
+  we can run the script in two ways
+  (i) bash <script-filename>
+  (ii) ./<script-filename>
