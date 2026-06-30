@@ -88,6 +88,8 @@ Functions are used to execute block of code when we call it
 
 <img width="722" height="341" alt="image" src="https://github.com/user-attachments/assets/5aea8e43-fa3d-44b4-be1e-204e31dd29a1" />
 
+Example:
+
 <img width="1186" height="650" alt="image" src="https://github.com/user-attachments/assets/27f3400c-2d78-442c-9a50-1c721a5a6024" />
 
 
