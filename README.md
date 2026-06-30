@@ -42,6 +42,12 @@ Example:
    <img width="780" height="857" alt="image" src="https://github.com/user-attachments/assets/1934e57f-196b-4dad-8e6b-cc558c7e2934" />
 
 
+   # Arithmetic
+
+   <img width="512" height="577" alt="image" src="https://github.com/user-attachments/assets/f39611b8-5cd1-4564-9708-66a7a890c8b8" />
+
+
+
 
 
 
