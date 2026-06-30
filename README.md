@@ -54,6 +54,11 @@ Example:
 
    <img width="402" height="381" alt="image" src="https://github.com/user-attachments/assets/91f9fd6e-2e4e-4474-ade5-f9eab945e382" />
 
+   # Logical operators
+
+   <img width="1047" height="280" alt="image" src="https://github.com/user-attachments/assets/357375f3-942e-4f5b-b11b-0c007de470d2" />
+
+
 
 
 
