@@ -74,9 +74,9 @@ Example:
   
   user can provide the inputs while running the script using read
   
-  `read -p "Enter user name" name`
+ - `read -p "Enter user name" name`
   
-  `read name`
+  - `read name`
 
 
 
