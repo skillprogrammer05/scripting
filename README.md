@@ -58,6 +58,11 @@ Example:
 
    <img width="1047" height="280" alt="image" src="https://github.com/user-attachments/assets/357375f3-942e-4f5b-b11b-0c007de470d2" />
 
+   Example:
+
+   <img width="522" height="357" alt="image" src="https://github.com/user-attachments/assets/2ace7064-eabc-48b3-b062-86c320c896ad" />
+
+
 
 
 
