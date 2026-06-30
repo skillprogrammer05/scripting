@@ -70,6 +70,11 @@ Example:
 
   <img width="592" height="351" alt="image" src="https://github.com/user-attachments/assets/cf8ab2bf-cc3a-4be1-835c-df0b24a60a7f" />
 
+  # user interaction
+  user can provide the inputs while running the script using read
+  `read -p "Enter user name" name`
+  `read name`
+
 
 
 
