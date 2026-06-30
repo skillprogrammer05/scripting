@@ -78,6 +78,13 @@ Example:
   
   - `read name`
 
+# Functions
+
+Functions are used to execute block of code when we call it
+
+<img width="701" height="371" alt="image" src="https://github.com/user-attachments/assets/13bcba72-4949-4587-a64a-0cade44fd517" />
+
+
 
 
 
