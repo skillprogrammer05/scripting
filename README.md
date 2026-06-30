@@ -50,6 +50,11 @@ Example:
 
    <img width="1081" height="472" alt="image" src="https://github.com/user-attachments/assets/390aa490-56bc-4d8e-b69d-a2b9880d7d70" />
 
+   Example:
+
+   <img width="402" height="381" alt="image" src="https://github.com/user-attachments/assets/91f9fd6e-2e4e-4474-ade5-f9eab945e382" />
+
+
 
 
 
