@@ -24,5 +24,12 @@ Example:
 
   # How to run the script
   we can run the script in two ways
+  
   (i) bash <script-filename>
+  
   (ii) ./<script-filename>
+
+
+
+
+
