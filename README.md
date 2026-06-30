@@ -31,13 +31,13 @@ Example:
 
   # Arrays
   
-  insert
+ - insert
   
-  update
+ - update
   
-  Remove
+ - Remove
   
-  Replace
+ - Replace
 
 
 
