@@ -6,5 +6,5 @@ Every script starts with the shebang i.e **#!/bin/bash**
 # variables in scripting
 1. Normal variables
 2. constant variables
-**Normal Variables**
+- **Normal Variables**
 can use this variables anywhere in the script.
